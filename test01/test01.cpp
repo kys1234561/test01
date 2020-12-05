@@ -13,6 +13,7 @@ int main()//程序入口，开始执行的地方
 {
 	cout << "Hello CMake。" << endl;
 	cout << "Hello CMake。" << endl;
+	cout << "Hello CMake。" << endl;
 	system("pause");
 	return 0;
 }
